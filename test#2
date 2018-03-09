@@ -1,0 +1,1 @@
+{ "username":"Blackjew9912", "content":"/r/pcmasterrace has posted something new!", "embeds":[{ "title" : "{{PostURL}}", "author": { "name": "'{{Title}}'" }, "description" : "{{PostedAt}}", "url" : "{{PostURL}}" }] }
